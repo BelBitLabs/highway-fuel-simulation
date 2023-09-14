@@ -5,7 +5,7 @@
 * Course: MECH 227
 * Professor: Cocolicchio
 * Language: C++
-* Purpose: This is program is to siumulate highway driving for the purpose of vehicle emissions testing.
+* Purpose: This is a program that siumulates highway driving for the purpose of vehicle emissions testing.
 * Progress Status: Complete
 **/
 
