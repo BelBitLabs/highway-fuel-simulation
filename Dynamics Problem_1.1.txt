@@ -1,0 +1,64 @@
+/**
+* Author: Metushaelle Paillant
+* File: U.S. EPA Highway Fuel Economy Driving Testing Schedule
+* Assignment: Problem 1.1: Comp. Project 1
+* Course: MECH 227
+* Professor: Cocolicchio
+* Language: C++
+* Purpose: This is program is to siumulate highway driving for the purpose of vehicle emissions testing.
+* Progress Status: Complete
+**/
+
+/**Start of code:**/
+
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+int main()
+{
+	//Declarations:
+	double read = xlsread(dara.xlsx); // reading the data
+	double t = read(:, 1);  // "t" is time
+	double v = read(:, 2);	// "v" is velocity
+	double n = numel(v);	// 
+	double delta t = 1;     // "delta t" is change in time
+
+	for (i = 2; n - 1;)
+	{
+		a(i + 1, 1) = ((v(i + 1, 1) - v(i, 1)) / delta t); // Forward Difference formula
+		a(i + 1, 1) = ((v(i + 1, 1) - v(i, 1)) / (2 * delta t); // Central Difference formula
+	}
+	cout << endl;
+
+	//Plotting both graphs ( Forward and Central):
+	plot(t, a, '--go', t, ac, ':r*')
+	title('a vs. t');
+	xlabel('t');
+	ylabel('a');
+	legend('Forward Difference', 'Central Difference');
+
+
+	// Simpson Rule
+	nn = numel(v) - 1;
+	h  = (765 / nn);
+	IS = (h / 3) * (v(1) + 2 * sum(v(3:2 : end - 2)) + 4 * sum(v(2:2 : end)) + v(end));
+
+	// Trapezoidal Rule:
+	IT = 0;
+	for (i = 1; length(v) - 1;)
+	{
+		IT = IT + (((v(i) + v(i + 1)) * h) / 2);
+	}
+	cout << endl;
+
+	// Percent(%) Difference:
+	Difference = (100 * (IS - IT)) / IS;
+	sprintf('f, IS'); // Total distance traveled using Simpson Rule
+	sprintf('f, IT'); // Total distance traveled using Trapezoidal Rule
+	sprintf('f, Difference'); // the perecent difference
+
+}
+/**end of code**/
