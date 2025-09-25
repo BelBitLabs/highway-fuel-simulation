@@ -1,7 +1,8 @@
-markdown
 
+```markdown
 # Project Title:
 Highway Fuel Economy Driving Simulation (C++)
+```
 
 ## 📑 Table of Contents
 - [Overview](#overview)
