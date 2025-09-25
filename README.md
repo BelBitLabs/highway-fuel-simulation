@@ -55,9 +55,9 @@ You can run this C++ program in two different ways:
 
 
 
-2. Open the repo folder in an IDE (such as DEV C++ or Visual Studio).
-3. Build/compile the program (usually a ▶️ Run or Build button).
-4. Run the program directly from the IDE to see the output in the console and graphs.
+  2. Open the repo folder in an IDE (such as DEV C++ or Visual Studio).
+  3. Build/compile the program (usually a ▶️ Run or Build button).
+  4. Run the program directly from the IDE to see the output in the console and graphs.
 
 ### 🔹  Option 2: Using the Command Line (g++ compiler):
 If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
