@@ -1,8 +1,6 @@
 
-```markdown
 # Project Title:
 Highway Fuel Economy Driving Simulation (C++)
-```
 
 ## 📑 Table of Contents
 - [Overview](#overview)
@@ -81,7 +79,7 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
    ```
 
 ## Credits:
-Created by Metushaelle Paillant as part of my Engineering coursework (Spring 2021).
+Created by **Metushaelle Paillant** as part of my Engineering coursework (Spring 2021).
 
 ---
 
