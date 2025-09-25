@@ -24,11 +24,22 @@ Simplified Version: This project analyzes highway driving in order to study and 
 -Conceptual/Numerical Methods: Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference
 
 ## How To Run:
+You can run this C++ program in two different ways:
+---
+### Option 1: Using an IDE (Most common for Window Users)
+1. Clone this repo: 
+   `git clone git@github.com:YourUsername/RepoName.git`
+2. Open `Dynamics_Problem_1.cpp` in your IDE.
+3. Build/Compile the project (usually a ▶️ Run or Build button).
+4. Run the program directly from the IDE.
+
+
+
 1. Clone this repo:  
    git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
 2. Open the project in an IDE (such as DEV C++ or Visual Studio, ect).
 3. Compile the program.
-4. Run the executable file to see the output.
+4. Run the executable file to see the output in the console and generated graphs.
 
 
 
