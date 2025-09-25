@@ -1,3 +1,5 @@
+markdown
+
 # Project Title: 
 Highway Fuel Economy Driving Simulation (C++)
 
@@ -23,7 +25,7 @@ Simplified Version: This project analyzes highway driving in order to study and 
 -Tools: GitHub (version control)
 -Conceptual/Numerical Methods: Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference
 
-## How To Run:
+## How To Run: Follow the listed Steps in chronological order
 You can run this C++ program in two different ways:
 ---
 ### Option 1: Using an IDE (Most common for Window Users):
@@ -35,13 +37,21 @@ You can run this C++ program in two different ways:
 
 ### Option 2: Using the Command Line (g++ compiler):
 1.Clone this repo:
-  git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
-2.. Navigate into the project folder:
+   bash
+   git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
+2. Go into the repo folder:
+   bash
    cd Dynamics-Problem-1.1---Project
-3. Compile the program:
+3. Compile the program:th eactual .cpp file
+   bash
    g++ Dynamics_Problem_1.cpp -o dynamics
 4. Run the program:
    ./dynamics
+
+Created by Metushaelle Paillant as part of my Engineering coursework (Spring 2021).
+
+yaml
+   
 
 
 
