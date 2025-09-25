@@ -1,6 +1,5 @@
-
 # Project Title:
-Highway Fuel Economy Driving Simulation (C++)-Student Project
+Highway Fuel Economy Driving Simulation (C++)
 
 ## 📑 Table of Contents:
 - [Overview](#overview)
