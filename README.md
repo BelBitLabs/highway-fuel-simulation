@@ -62,19 +62,21 @@ You can run this C++ program in two different ways:
 If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
 
 1. Clone this Repo:
-
-git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
-
+   ```bash
+      git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
+   ```
 2. Go into the repo folder:
-
-cd Dynamics-Problem-1.1---Project
-
+    ```bash
+      cd Dynamics-Problem-1.1---Project
+    ```
 3. Compile the program:
-
-g++ Dynamics_Problem_1.cpp -o dynamics
-
+   ```bash
+      g++ Dynamics_Problem_1.cpp -o dynamics
+   ```
 4. Run the program:
-./dynamics
+   ```bash
+     ./dynamics
+   ```
 
 ## Credits:
 Created by Metushaelle Paillant as part of my Engineering coursework (Spring 2021).
