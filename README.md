@@ -77,6 +77,7 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
    ```bash
      ./dynamics
    ```
+---
 
 ## Credits:
 Created by **Metushaelle Paillant** as part of my Engineering coursework (Spring 2021).
