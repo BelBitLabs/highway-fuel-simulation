@@ -28,13 +28,20 @@ You can run this C++ program in two different ways:
 ---
 ### Option 1: Using an IDE (Most common for Window Users):
 1. Clone this repo: 
-   
+   git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
 2. Open the project in an IDE (such as DEV C++ or Visual Studio, ect).
 3. Build/Compile the program (usually a ▶️ Run or Build button).
 4. Run the program directly from the IDE to see the output in the console and generated graphs.
 
 ### Option 2: Using the Command Line (g++ compiler):
 1.Clone this repo:
+  git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
+2.. Navigate into the project folder:
+   cd Dynamics-Problem-1.1---Project
+3. Compile the program:
+   g++ Dynamics_Problem_1.cpp -o dynamics
+4. Run the program:
+   ./dynamics
 
 
 
