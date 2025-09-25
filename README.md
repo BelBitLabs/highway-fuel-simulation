@@ -5,9 +5,10 @@ Highway Fuel Economy Driving Simulation (C++)
 This project simulates highway driving conditions in order to test and analyze vehicle emissions and fuel economy or effeciency.
 The program processes input velocity data and applies multiple numerical methods to calculate and compare results, 
 which provides insight into vehicle performance under different conditions.
-(Lamen Terms: This project analyzes highway driving in order to study and measure the amount of pollution a vehicle transmits and gas that it uses. 
-              This program mainly takes in velocity data under different driving conditions by applying several calcualtion/numerical methods, 
-              and then finally compares those results under each conditon the car was tested under.)
+
+Simplified Version: This project analyzes highway driving in order to study and measure the amount of pollution a vehicle transmits and gas that it uses. 
+                    This program mainly takes in velocity data under different driving conditions by applying several calcualtion/numerical methods, 
+                    and then finally compares those results under each conditon the car was tested under.
 
 ## Features: 
 - Reads in velocity/time data and processes it using C++
