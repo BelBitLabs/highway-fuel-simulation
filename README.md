@@ -50,16 +50,15 @@ You can run this C++ program in two different ways:
 ### 🔹 Option 1: Using an IDE (Most Common for Windows Users):
 1.  Clone this repo:  
    ```bash
-
-   git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
-
-
-
+      git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
+   ```
   2. Open the repo folder in an IDE (such as DEV C++ or Visual Studio).
   3. Build/compile the program (usually a ▶️ Run or Build button).
   4. Run the program directly from the IDE to see the output in the console and graphs.
 
-### 🔹  Option 2: Using the Command Line (g++ compiler):
+---
+
+### 🔹 Option 2: Using the Command Line (g++ compiler):
 If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
 
 1. Clone this Repo:
