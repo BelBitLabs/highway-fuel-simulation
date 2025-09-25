@@ -59,7 +59,7 @@ You can run this C++ program in two different ways:
 ---
 
 ### 🔹 Option 2: Using the Command Line (g++ compiler):
-If you have g++ installed (via MinGW, Linux, or macOS t:erminal):
+If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
 
 1. Clone this Repo:
    ```bash
