@@ -32,7 +32,7 @@ under different driving conditions by applying several calculations/numerical me
 ---
 
 ## Technologies Used:
-- **Languages**: C++  
+- **Language**: C++  
 - **IDEs**: DEV C++ or Visual Studio  
 - **Tools**: GitHub (version control)  
 - **Computational/Numerical Methods**:Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference  
