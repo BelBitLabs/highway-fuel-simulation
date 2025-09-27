@@ -71,7 +71,7 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
    ```
 ---
 ## Credits:
-Created by **Metushaelle Paillant** as part of my Engineering coursework (Spring 2021).
+Created as part of my Engineering coursework (Spring 2021).
 
 ---
 
