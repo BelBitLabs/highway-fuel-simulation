@@ -12,7 +12,6 @@ Highway Fuel Economy Driving Simulation (C++)
 - [Credits](#credits)
 
 ---
-
 ## Overview:
 This project simulates highway driving conditions in order to test and analyze vehicle emissions and fuel economy or efficiency. The program processes input velocity data 
 and applies multiple numerical methods to calculate and compare results, which provides insight into vehicle performance under different conditions.  
@@ -22,7 +21,6 @@ This project analyzes highway driving in order to study and measure the amount o
 under different driving conditions by applying several calculations/numerical methods, and then finally compares those results under each condition the car was tested under.  
 
 ---
-
 ## Features:
 - Reads in velocity/time data and processes it using C++  
 - Implements *Forward Difference* and *Central Difference* formulas  
@@ -31,7 +29,6 @@ under different driving conditions by applying several calculations/numerical me
 - Outputs results and plots graphs for visualization  
 
 ---
-
 ## Technologies Used:
 - **Language**: C++  
 - **IDEs**: DEV C++ or Visual Studio  
@@ -39,12 +36,10 @@ under different driving conditions by applying several calculations/numerical me
 - **Computational/Numerical Methods**: Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference  
 
 ---
-
 ## How to Run: Follow the listed steps in chronological order:  
 You can run this C++ program in two different ways:  
 
 ---
-
 ### 🔹 Option 1: Using an IDE (Most Common for Windows Users):
 1.  Clone this repo:  
    ```bash
@@ -55,7 +50,6 @@ You can run this C++ program in two different ways:
   4. Run the program directly from the IDE to see the output in the console and graphs.
 
 ---
-
 ### 🔹 Option 2: Using the Command Line (g++ compiler):
 If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
 
@@ -76,7 +70,6 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
      ./dynamics
    ```
 ---
-
 ## Credits:
 Created by **Metushaelle Paillant** as part of my Engineering coursework (Spring 2021).
 
