@@ -1,4 +1,4 @@
-# Project Title:
+## Project Title:
 # Highway Fuel Economy Driving Simulation (C++)
 
 ---
@@ -32,8 +32,10 @@ under different driving conditions by applying several calculations/numerical me
 ## Technologies Used:
 - **Language**: C++  
 - **IDEs**: DEV C++ or Visual Studio  
-- **Tools**: GitHub (version control)  
-- **Computational/Numerical Methods**: Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference  
+- **Tools/Libraries**: GitHub (version control)  
+- **Numerical Methods**: Simpson’s Rule, Trapezoidal Rule, Forward Difference, Central Difference
+- **Computational Methods**:
+- **Conceptual Methods**:
 
 ---
 ## How to Run: Follow the listed steps in chronological order:  
