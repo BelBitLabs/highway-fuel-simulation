@@ -31,11 +31,11 @@ under different driving conditions by applying several calculations/numerical me
 ---
 ## Technologies Used:
 - **Language**: C++  
-- **IDEs**: DEV C++ or Visual Studio  
+- **IDE(s)**: DEV C++ or Visual Studio  
 - **Numerical Methods**: Simple math formulas to estimate acceleration and distance (Forward/Central Difference, Simpson’s Rule, Trapezoidal Rule) 
 - **Computational Methods**: C++ implementation, loops & array processing, simple data handling to do calcualtions and plot graphs
 - **Conceptual Methods**: Kinematics (velocity–time–acceleration), error analysis, comparison of numerical approaches.
-- **Tools/Libraries**: GitHub (version control)  
+- **Tool(s)/Libraries**: GitHub (version control)  
 
 ---
 ## How to Run: Follow the listed steps in chronological order:  
