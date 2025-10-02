@@ -74,6 +74,7 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
 ---
 ## Credits:
 This project was developed as part of Engineering coursework (Spring 2021).
+
 I'm still learning the ropes with g++ and the CLI basics; feedback welcome!😊
 
 ---
