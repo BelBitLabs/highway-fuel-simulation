@@ -65,15 +65,15 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
     ```
 3. Compile the program:
    ```bash
-      g++ highway_fuel_simulation.cpp -o hfs_dynamics
+      g++ highway_fuel_simulation.cpp -o HFS_Dynamics
    ```
 4. Run the program:
    ```bash
-     ./hfs_dynamics
+     ./HFS_Dynamics
    ```
 ---
 ## Credits:
-This porject was developed as part of Engineering coursework (Spring 2021).
+This project was developed as part of Engineering coursework (Spring 2021)- still learning the ropes with g++ and the CLI; feedback welcome.
 
 ---
 
