@@ -57,19 +57,19 @@ If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
 
 1. Clone this Repo:
    ```bash
-      git clone git@github.com:MPaillant7/Dynamics-Problem-1.1---Project.git
+      git@github.com:BelBitLabs/highway-fuel-simulation.git
    ```
 2. Go into the repo folder:
     ```bash
-      cd Dynamics-Problem-1.1---Project
+      cd highway-fuel-simulation
     ```
 3. Compile the program:
    ```bash
-      g++ Dynamics_Problem_1.cpp -o dynamics
+      g++ highway_fuel_simulation.cpp -o hfs_dynamics
    ```
 4. Run the program:
    ```bash
-     ./dynamics
+     ./hfs_dynamics
    ```
 ---
 ## Credits:
