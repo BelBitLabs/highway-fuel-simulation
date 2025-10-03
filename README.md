@@ -8,7 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run-follow-the-listed-steps-in-chronological-order)
   - [Option 1: Using an IDE](#-option-1-using-an-ide-most-common-for-windows-users)
-  - [Option 2: Using the Command Line](#-option-2-using-the-command-line-g-compiler)
+  - [Option 2: Using the Command Line](#run-locally-gpp)
 - [Credits](#credits)
 
 ---
@@ -52,7 +52,7 @@ You can run this C++ program in two different ways:
   4. Run the program directly from the IDE to see the output in the console and graphs.
 
 ---
-<a id="using-the-command-gpp"></a> 
+<a id="run-locally-gpp"></a> 
 ### 🔹 Option 2: Using the Command Line Interface (CLI) - g++ compiler:
 If you have g++ installed (via MinGW, Linux, or macOS t:erminal)...
 
