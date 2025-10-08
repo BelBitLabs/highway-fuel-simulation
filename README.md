@@ -79,7 +79,12 @@ This project was developed as part of Engineering coursework (Spring 2021).
 I'm still learning the ropes with g++ and the CLI basics; feedback is welcomed!😊
 
 ---
+## License:
+**BelBitLabs Dual License (MIT + Educational Attribution Clause)** — free for educational and personal use with credit; not for resale or uncredited redistribution.  
 
+See the full text in [LICENSE](https://github.com/BelBitLabs/MPaillant7/blob/main/LICENSE.md).
+
+---
 
 
    
